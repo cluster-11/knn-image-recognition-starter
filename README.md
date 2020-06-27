@@ -1,4 +1,4 @@
-## Open Mind
+## Open Mind Starter Vanilla JavaScript
 
 > **A web application that you can use to train and recognize your own images**
 

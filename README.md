@@ -8,4 +8,4 @@
 **If you have any _question_, _issue_ or _bug report_, open up a new issue or pull request on [GitHub](https://github.com/cluster-11/open-mind-vanilla-javascript)**
 <br />
 
-_Note, since this plain html file uses `CDN` to load the `ml5` library, it might take some time to load the library on the browser_
+_Note, since this plain html file uses `CDN` to load the `ml5` library, it might take some time to initially load the library on the browser_

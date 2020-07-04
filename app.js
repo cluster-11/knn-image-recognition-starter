@@ -1,3 +1,7 @@
+// helpful documentation:
+//   1. https://ml5js.org/reference/api-KNNClassifier/
+//   2. https://learn.ml5js.org/docs/#/
+
 const trainBtn1 = document.querySelector(".btn-1");
 const trainBtn2 = document.querySelector(".btn-2");
 const submitBtn = document.querySelector(".submit-btn");
@@ -9,7 +13,6 @@ let video1 = document.getElementById("video1");
 let video2 = document.getElementById("video2");
 let video3 = document.getElementById("video3");
 
-//from 'ml5' library. Documentation: https://learn.ml5js.org/docs/#/
 let ml5Features = ml5.featureExtractor("MobileNet", () => {});
 let knn = ml5.KNNClassifier();
 

@@ -1,4 +1,4 @@
-## Open Mind
+## KNN Image Classification Starter
 
 > **A starter application that you can use to train and recognize objects/beings from image/video**
 
